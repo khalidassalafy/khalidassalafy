@@ -8,8 +8,8 @@ I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Mac
 
 *   🌍  I'm based in Kano.
 *   ✉️  You can contact me at [khalidassalafy@gmail.com](mailto:khalidassalafy@gmail.com)
-*   🧠  I'm learning deep learning with Pytorch.
-*   🤝  I'm open to collaborating on machine translation, time series forecasting and any interesting project.
+*   🧠  I'm learning Deep Learning with Pytorch.
+*   🤝  I'm open to collaborating on Machine Translation, Time Series Forecasting and any interesting project.
 
 
  
