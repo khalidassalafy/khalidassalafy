@@ -9,7 +9,11 @@ I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Mac
 *   🌍  I'm based in Kano.
 *   ✉️  You can contact me at [khalidassalafy@gmail.com](mailto:khalidassalafy@gmail.com)
 *   🧠  I'm learning deep learning with Pytorch.
-*   🤝  I'm open to collaborating on machine translation, time series forecasting and any interesting project.### Skills 
+*   🤝  I'm open to collaborating on machine translation, time series forecasting and any interesting project.
+
+
+ 
+ ### Skills 
 
 
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -18,6 +22,7 @@ I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Mac
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
+
 
  ### Socials
                   
