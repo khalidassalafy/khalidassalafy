@@ -29,7 +29,7 @@ I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Mac
                           
                       <a href="https://www.github.com/khalidassalafy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.linkedin.com/in/abubakarauwalkalid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                      <a href="https://www.linkedin.com/in/abubakarauwalkhalid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
                       <a href="http://www.medium.com/abubakarauwalkhalid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
                           
