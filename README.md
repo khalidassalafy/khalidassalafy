@@ -9,7 +9,14 @@ I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Mac
 *   🌍  I'm based in Kano.
 *   ✉️  You can contact me at [khalidassalafy@gmail.com](mailto:khalidassalafy@gmail.com)
 *   🧠  I'm learning Deep Learning with Pytorch.
-*   🤝  I'm open to collaborating on Machine Translation, Time Series Forecasting and any interesting project.
+*   🤝  I'm open to collaborating on Machine Translation, Sentiment Analysis, Time Series Forecasting and any interesting project.
+*   ⚡  I blog on [Medium](https://www.medium.com/"@khalidassalafy). Below are some of my posts:
+    *  [Introduction to Time Series Forecasting and Basic Data Wrangling](https://medium.com/@khalidassalafy/time-series-forecasting-fundamentals-and-data-exploration-518085d5c75a).
+    *  [Sentiment Analysis with NLTK](https://medium.com/@khalidassalafy/sentiment-analysis-with-nltk-4afbb0bf6a49).
+    *  [NLP with TextBlob](https://medium.com/@khalidassalafy/textblob-a-simple-library-for-natural-language-processing-nlp-81b993e252b0).
+    *  [Data Preparation with Pandas](https://medium.com/@khalidassalafy/prepare-and-clean-your-data-with-pandas-dfc96ebed5ae).
+    *  [How to Create PIP Vitual Environments on Windows](https://medium.com/@khalidassalafy/how-to-create-virtual-environments-on-windows-a217b6771360).
+    *  [Web Scraping with BeautifulSoup](https://medium.com/@khalidassalafy/scraping-web-site-using-beautiful-soup-simple-introduction-95b0e4c1217c).
 
 
  
