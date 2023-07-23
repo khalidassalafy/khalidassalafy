@@ -38,14 +38,14 @@ I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Mac
      
      Issued July, 2023
      
-     [Click here to see credential](https://coursera.org/share/d4a5286465ba2ee12126bba4e62c761e)
+     [Click here to see credential](https://www.coursera.org/account/accomplishments/certificate/FTXT9BJCWLVY)
 
  * #### Learning How to Learn: Deep Teaching Solutions
      Coursera Course Certificates
      
      Issued February, 2023
 
-     [Click here to see credential](https://coursera.org/share/9e8f28a65dcb46aaf084adacabe68bf1)
+     [Click here to see credential](https://www.coursera.org/account/accomplishments/certificate/JZ6FM9QDJB33)
 
 
  
