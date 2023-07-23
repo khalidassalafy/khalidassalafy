@@ -20,14 +20,32 @@ I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Mac
  
 
  ### Ceritifications
-   * #### Python Programming: Google Reserach
+
+ * #### Data Science and Machine Learning: Google Reserach
+     Arewa Data Science Academy Fellowship
+     
+     Issued July, 2023
+     
+* #### Python Programming: Google Reserach
      Arewa Data Science Academy Fellowship
      
      Issued March, 2023
      
-     Credential ID ADS-23-PY-05
-     
      [Click here to see credential](https://drive.google.com/file/d/1VloU21nDZytG2rS7_UdWop8swqrHiUg7/view?usp=drive_link)
+
+* #### Writing in the Sciences: Stanford University
+     Coursera Course Certificates
+     
+     Issued July, 2023
+     
+     [Click here to see credential](https://coursera.org/share/d4a5286465ba2ee12126bba4e62c761e)
+
+ * #### Learning How to Learn: Deep Teaching Solutions
+     Coursera Course Certificates
+     
+     Issued February, 2023
+
+     [Click here to see credential](https://coursera.org/share/9e8f28a65dcb46aaf084adacabe68bf1)
 
 
  
