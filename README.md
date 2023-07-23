@@ -17,6 +17,17 @@ I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Mac
     *  [Data Preparation with Pandas](https://medium.com/@khalidassalafy/prepare-and-clean-your-data-with-pandas-dfc96ebed5ae).
     *  [How to Create PIP Vitual Environments on Windows](https://medium.com/@khalidassalafy/how-to-create-virtual-environments-on-windows-a217b6771360).
     *  [Web Scraping with BeautifulSoup](https://medium.com/@khalidassalafy/scraping-web-site-using-beautiful-soup-simple-introduction-95b0e4c1217c).
+ 
+
+ ### Ceritifications
+   * #### Python Programming: Google Reserach
+     Arewa Data Science Academy Fellowship
+     
+     Issued March, 2023
+     
+     Credential ID ADS-23-PY-05
+     
+     [Click here to see credential](https://drive.google.com/file/d/1VloU21nDZytG2rS7_UdWop8swqrHiUg7/view?usp=drive_link)
 
 
  
