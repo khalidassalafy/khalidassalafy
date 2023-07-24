@@ -25,27 +25,29 @@ I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Mac
      Arewa Data Science Academy Fellowship
      
      Issued July, 2023
+
+     [Click here to see the credential](https://drive.google.com/file/d/1kEdhbLMEypwHW2Bt2H7czP20F32M_Txk/view?usp=drive_link)
      
 * #### Python Programming: Google Reserach
      Arewa Data Science Academy Fellowship
      
      Issued March, 2023
      
-     [Click here to see credential](https://drive.google.com/file/d/1VloU21nDZytG2rS7_UdWop8swqrHiUg7/view?usp=drive_link)
+     [Click here to see the credential](https://drive.google.com/file/d/1VloU21nDZytG2rS7_UdWop8swqrHiUg7/view?usp=drive_link)
 
 * #### Writing in the Sciences: Stanford University
      Coursera Course Certificates
      
      Issued July, 2023
      
-     [Click here to see credential](https://www.coursera.org/account/accomplishments/certificate/FTXT9BJCWLVY)
+     [Click here to see the credential](https://www.coursera.org/account/accomplishments/certificate/FTXT9BJCWLVY)
 
  * #### Learning How to Learn: Deep Teaching Solutions
      Coursera Course Certificates
      
      Issued February, 2023
 
-     [Click here to see credential](https://www.coursera.org/account/accomplishments/certificate/JZ6FM9QDJB33)
+     [Click here to see the credential](https://www.coursera.org/account/accomplishments/certificate/JZ6FM9QDJB33)
 
 
  
