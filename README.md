@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abubakar Khalid Auwal.
 ==============================================================================================================================================
 
-I'm a MSc candidate in the Department of Computer Science, Bayero University Kano, specializing in Natural Language Processing.
+I'm a graduate of Computer Science, Usmanu Danfodiyo University Sokoto, specializing in Natural Language Processing.
 -------------------------------------------------------------------------------------------------------------------------------
 
-I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Machine Learning and Deep Learning.
+I'm currently a fellow of Arewa Data Science Academy, learning Data Science, Machine Learning, Deep Learning.
 
 *   🌍  I'm based in Kano.
 *   ✉️  You can contact me at [khalidassalafy@gmail.com](mailto:khalidassalafy@gmail.com)
